@@ -1,8 +1,8 @@
 <h3>Url các đường dẫn api (Port: 8000)</h3>
-All User: http://localhost:8000/api/user (GET)
-Update User http://localhost:8000/api/user/{id} (POST) (id là id user cần update)
-Login : http://localhost:8000/api/login (POST)
-Logout : http://localhost:8000/api/logout (GET)
+All User: http://localhost:8000/api/user (GET)<br>
+Update User http://localhost:8000/api/user/{id} (POST) (id là id user cần update)<br>
+Login : http://localhost:8000/api/login (POST)<br>
+Logout : http://localhost:8000/api/logout (GET)<br>
 
 <h3>Tất cả user đều có password là 123 </h3>
 <h3>Có sẵn file sql cũng như file Postman để tránh mất thời gian </h3>
