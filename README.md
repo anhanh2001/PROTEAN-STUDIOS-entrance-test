@@ -1,5 +1,6 @@
 <h3>Url các đường dẫn api (Port: 8000)</h3>
 All User: http://localhost:8000/api/user (GET)<br>
+Info User: http://localhost:8000/api/info (GET)<br>
 Update User http://localhost:8000/api/user/{id} (POST) (id là id user cần update)<br>
 Login : http://localhost:8000/api/login (POST)<br>
 Logout : http://localhost:8000/api/logout (GET)<br>
